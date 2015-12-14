@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Nick's blog 
 subtitle:
-description:
-author: John Doe
+description: 巴特尔是傻逼
+author: Nicolas Chee
 language:
 timezone:
 
@@ -64,10 +64,12 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: next
-
+avatar: /images/avatar.jpg
+social:
+  weibo: http://weibo.com/nicolaschee
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy: 
+deploy:
   repo: https://gitcafe.com/nicolaschee/nicolaschee.git
   type: git
   branch: gitcafe-pages
