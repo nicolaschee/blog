@@ -3,14 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
- Updated upstream
+Updated upstream
 title: Nick's blog
 subtitle:
 description: 谋后而定 行且坚毅
 author: Nicolas Chee
 language: zh-Hans
 
->>>>>>> Stashed changes
 timezone:
 
 # URL
