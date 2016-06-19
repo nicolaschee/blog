@@ -71,9 +71,9 @@ social:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  repo: https://gitcafe.com/nicolaschee/nicolaschee.git
+  repo: https://github.com/nicolaschee/nicolaschee.github.io.git
   type: git
-  branch: gitcafe-pages
+  branch: master
 
 
 # title, chinese available
