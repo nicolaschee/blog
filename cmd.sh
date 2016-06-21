@@ -1,5 +1,6 @@
 hexo clean
 hexo generate
+hexo generate
 hexo deploy
 
 git add .
